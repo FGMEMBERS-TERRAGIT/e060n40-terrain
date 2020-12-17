@@ -1,0 +1,5 @@
+OBJECT_BASE 3940578.btg
+OBJECT UTNU.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml 60.630318 41.595305 97.0 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 60.656382 41.570881 98.4 0.00
+OBJECT_SHARED Models/Airport/beacon.xml 60.644949 41.584135 97.3 0.00
